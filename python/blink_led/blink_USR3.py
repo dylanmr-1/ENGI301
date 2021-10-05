@@ -7,7 +7,7 @@ Created on Mon Oct  4 13:53:24 2021
 """
 """
 --------------------------------------------------------------------------
-Simple Calculator
+Blinking LED program
 --------------------------------------------------------------------------
 License:   
 Copyright 2021 Dylan Rivera
@@ -39,21 +39,7 @@ ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF
 THE POSSIBILITY OF SUCH DAMAGE.
 --------------------------------------------------------------------------
 
-Simple calculator that will 
-  - Take in two numbers from the user
-  - Take in an operator from the user
-  - Perform the mathematical operation and provide the number to the user
-  - Repeat
-
-Operations:
-  - addition
-  - subtraction
-  - multiplication
-  - division
-
-Error conditions:
-  - Invalid operator --> Program should exit
-  - Invalid number   --> Program should exit
+Program that blinks the onboard LED of the PocketBeagle
 
 --------------------------------------------------------------------------
 """
